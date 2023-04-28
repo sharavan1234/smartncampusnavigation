@@ -1,0 +1,27 @@
+#faculty{
+    line-height: 40px;
+}
+.l-item{
+    text-decoration: none;
+    color: black;
+}
+.image{
+    height:200px;
+    justify-content: space-between;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+@media screen and (min-width:320px) and (max-width:480px) {
+    .image{
+        display:none;
+    }
+}
+.vnr{
+    height:50px;
+    margin-right: 10px;    
+}
+.select{
+    text-decoration: none;
+    color: white;
+}
+
